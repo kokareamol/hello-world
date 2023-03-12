@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, after cron </h1>
+   <h1> Thankyou, cicd done </h1>
 
   
 </form>
